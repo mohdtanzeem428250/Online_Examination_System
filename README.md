@@ -31,7 +31,7 @@ An efficient, user-friendly, and secure web-based **Online Examination System** 
 - Manage Users
 - Manage Quizzes & Questions
 - View Results and Feedback
-- System Analytics (basic)
+- View New Users Registered
 
 ---
 
@@ -45,3 +45,13 @@ An efficient, user-friendly, and secure web-based **Online Examination System** 
 | JavaScript   |             |           |      
 
 ---
+
+## 🚀 Deployment (InfinityFree)
+
+The project is deployed on **InfinityFree**, a free hosting provider for PHP and MySQL applications.
+
+### 🔧 Steps Followed for Deployment:
+1. **Signed up** at [https://infinityfree.net](https://infinityfree.net)
+2. **Created a new hosting account**
+3. **Uploaded all project files** via File Manager or FTP (FileZilla recommended)
+4. **Created a MySQL database** using the InfinityFree Control Panel
